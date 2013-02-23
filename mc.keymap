@@ -1,0 +1,20 @@
+[editor]
+Store = ctrl-insert; ctrl-c
+Paste = shift-insert; ctrl-v
+Cut = shift-delete
+ParagraphUp = alt-comma
+ParagraphDown = alt-dot
+MarkAll = ctrl-a
+MarkPageUp = shift-pgup
+MarkPageDown = shift-pgdn
+MarkLeft = shift-left
+MarkRight = shift-right
+MarkToWordBegin = ctrl-shift-left
+MarkToWordEnd = ctrl-shift-right
+MarkUp = shift-up
+MarkDown = shift-down
+MarkToHome = shift-home
+MarkToEnd = shift-end
+MarkToFileBegin = ctrl-shift-home
+MarkToFileEnd = ctrl-shift-end
+History = alt-h
